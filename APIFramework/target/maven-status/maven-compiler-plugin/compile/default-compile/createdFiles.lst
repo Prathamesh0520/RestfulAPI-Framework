@@ -1,0 +1,5 @@
+org\example\endpoints\APIConstants.class
+org\example\payloads\Bookingdates.class
+org\example\utils\FakerUtil.class
+org\example\modules\PayloadManager.class
+org\example\payloads\Booking.class
